@@ -20,5 +20,4 @@ end
 Entao(/^devera retornar a tela dos dados do empregado$/) do
    texto = find(:xpath,'//*[@id="pdMainContainer"]/div[1]/h1').text
    expect('Personal Details').to eq(texto)
-   $Employee_Id = find('#personal_txtEmployeeId').value
 end

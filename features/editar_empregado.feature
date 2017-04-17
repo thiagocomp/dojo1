@@ -1,6 +1,6 @@
 #language: pt
 #utf-8
-
+@editar
 Funcionalidade: Editar Empregado
   Eu como usuario do sistema
   Quero ediar um Empregado

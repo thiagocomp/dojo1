@@ -1,6 +1,6 @@
 #language: pt
 #utf-8
-
+@cadastrar
 Funcionalidade: Cadastrar Empregado
   Eu como usuario do sistema
   Quero cadastrar um Empregado

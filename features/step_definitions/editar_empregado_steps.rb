@@ -4,7 +4,7 @@ Dado(/^acesso o menu de lista de empregados$/) do
 end
 
 Quando(/^eu localizo o empregado$/) do
-  click_link($Employee_Id)
+  click_link('0001')
   find('#btnSave').click
 end
 
